@@ -1,0 +1,22 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "My Liri homework",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabe187/LIRI.git"
+  },
+  "keywords": [
+    "Liri"
+  ],
+  "author": "Gabe Solomon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabe187/LIRI/issues"
+  },
+  "homepage": "https://github.com/Gabe187/LIRI#readme"
+}
